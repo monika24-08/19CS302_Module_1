@@ -34,5 +34,6 @@ return 0;
 
 ## Output:
 <img width="470" height="188" alt="image" src="https://github.com/user-attachments/assets/1eef498f-6b6d-4056-80ab-04c226c706a2" />
+
 ## Result:
 Thus the program was executed and the output was verified successfully.
